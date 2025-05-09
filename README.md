@@ -2,7 +2,7 @@
 
 **LinkScribe** is a simple yet powerful desktop app that takes an Excel sheet filled with URLs, applies a custom prompt to each one using an LLM (via [Groq](https://groq.com/)), and returns an Excel file with summarized content—clean, fast, and customizable.
 
-![app-preview]![image](https://github.com/user-attachments/assets/f813b621-fa7c-4a0d-9ae3-992c3779faa5)
+![image](https://github.com/user-attachments/assets/f813b621-fa7c-4a0d-9ae3-992c3779faa5)
 
 ---
 
