@@ -34,7 +34,7 @@
 1. Clone this repo:
 
    ```bash
-   git clone https://github.com/yourusername/LinkScribe.git
+   git clone https://github.com/ramahany/LinkScribe.git
    cd LinkScribe
    
 2. Install the required packages:
