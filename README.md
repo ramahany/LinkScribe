@@ -80,4 +80,4 @@ By offloading the summarization loop to a background thread, I could keep the UI
 - Finished output file
 
 ## 📈 Status
-# ✅ Functional and stable – actively open to feature suggestions!
+### ✅ Functional and stable – actively open to feature suggestions!
