@@ -63,7 +63,7 @@ By offloading the summarization loop to a background thread, I could keep the UI
 - ☁️ Add cloud storage option for output files
 - 🧹 Better error handling for invalid links or failed summaries
 
-## 📌 Future Enhancements
+## 📷 Screenshots
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b4fcb6a4-ec18-4aa4-8839-03fc1c5bc7c1" width="200" />
   <img src="https://github.com/user-attachments/assets/c3de84db-255c-4ff8-b0c1-a53f9a3978f2" width="200" />
@@ -80,4 +80,4 @@ By offloading the summarization loop to a background thread, I could keep the UI
 - Finished output file
 
 ## 📈 Status
-#✅ Functional and stable – actively open to feature suggestions!
+# ✅ Functional and stable – actively open to feature suggestions!
